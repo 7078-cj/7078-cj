@@ -2,7 +2,7 @@
 #### ~Masarap ma2log~
 a BSIS college student
 
-Skills: PYTHON/DJANGO / REACT / JS / HTML / CSS
+Skills: PYTHON/DJANGO /Laravel/ REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning NEXTJS/TAILWIND 
