@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ceejay Santos
 #### ~Masarap ma2log~
-a BSIS college student
+
 
 Skills: PYTHON/DJANGO /Laravel/ REACT / JS / HTML / CSS
 
