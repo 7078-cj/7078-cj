@@ -9,7 +9,8 @@
 
 ## 🎧 Now Playing on Spotify
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bqckitzkauvemgo4chawopb2eq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/31bqckitzkauvemgo4chawopb2eq)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bqckitzkauvemgo4chawopb2eq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31bqckitzkauvemgo4chawopb2eq&redirect=true)
+
 
 
 
