@@ -2,7 +2,7 @@
   <img src="https://64.media.tumblr.com/1c7ae0c17858258d95c924b1a39a0ef7/4af0bed690f2be98-c9/s1280x1920/b33f02a561ee8a854b3380c5da9a4d1502a1a1e9.gif" width="100%" />
 </p>
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:3b0a0a,100:5e0f0f&height=200&section=header&text=༺%20Lvly%20༻&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=In%20Darkness%2C%20I%20Create&descAlignY=60&descAlign=50](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:3b0a0a,100:5e0f0f&height=200&section=header&text=%E0%BC%BA%20Ceejay%20%E0%BC%BB&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Ma2log%20Nalang&descAlignY=60&descAlign=50)" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:3b0a0a,100:5e0f0f&height=200&section=header&text=%E0%BC%BA%20Ceejay%20%E0%BC%BB&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Ma2log%20Nalang&descAlignY=60&descAlign=50" />
 <h3 align="center">An aspiring Full-Stack Dev && ML Engineer</h3>
 
 
