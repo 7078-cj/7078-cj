@@ -44,9 +44,12 @@
 </p>
 
 ---
-<p align="center>
-  <a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=AYOKO%20%20%20NAAAAAAA!"></a>
+<p align="center">
+  <a href="https://github.com/kawarimidoll/typograssy">
+    <img alt="typograssy" src="https://typograssy.deno.dev/api?text=AYOKO%20%20%20NAAAAAAA!&color=000000,0000FF" />
+  </a>
 </p>
+
 ---
 
 ## 💻 Tech Stack  
