@@ -41,7 +41,7 @@
 
 ---
 <p align="center>
-  <a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=ayokoo%20naaaaaaa!"></a>
+  <a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=AYOKO %20 NAAAAAAA!"></a>
 </p>
 ---
 
