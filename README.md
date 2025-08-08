@@ -9,7 +9,8 @@
 
 ## 🎧 Recently Played on Spotify (via Last.fm)
 
-![Last.fm Recently Played](https://lastfm-recently-played.vercel.app/api?user=c7078j)
+![Recently Played](https://lastfm-recently-played.vercel.app/api?user=c7078j&count=5&gradient=true)
+
 
 
 
