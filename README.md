@@ -20,7 +20,7 @@
 <td align="center" width="50%">
 
 ## 🎧 Recently Played  
-<sub>via Last.fm</sub>  
+ 
 <img src="https://lastfm-recently-played.vercel.app/api?user=c7078j&count=5&gradient=true" />
 
 </td>
