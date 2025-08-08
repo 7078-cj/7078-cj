@@ -6,6 +6,9 @@
 
 # 💫 About Me:
 🔭 I’m currently working on {still thinking for the next personal proj}<br>🌱 I’m currently learning Machine learning <br>⚡ Fun fact about me : Gus2 ko na ma2log
+![Last.fm Recently Played](https://lastfm-recently-played.vercel.app/api?user=c7078j)
+
+
 
 
 ## 🌐 Socials:
