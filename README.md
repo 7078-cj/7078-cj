@@ -1,4 +1,5 @@
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=57350595249768871" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
+![MasterHead](https://64.media.tumblr.com/1c7ae0c17858258d95c924b1a39a0ef7/4af0bed690f2be98-c9/s1280x1920/b33f02a561ee8a854b3380c5da9a4d1502a1a1e9.gifv)
+
 <h1 align="center">Hi 👋, I'm   Ceejay Santos</h1>
 <h3 align="center">An aspiring Full-Stack Dev && ML Engineer</h3>
 
