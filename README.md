@@ -6,7 +6,6 @@
 
 # 💫 About Me:
 🔭 I’m currently working on {still thinking for the next personal proj}<br>🌱 I’m currently learning Machine learning <br>⚡ Fun fact about me : Gus2 ko na ma2log <br>
-## 🎧 Now Playing on Spotify
 
 ## 🎧 Now Playing on Spotify
 
