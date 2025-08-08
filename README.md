@@ -6,7 +6,10 @@
 
 # 💫 About Me:
 🔭 I’m currently working on {still thinking for the next personal proj}<br>🌱 I’m currently learning Machine learning <br>⚡ Fun fact about me : Gus2 ko na ma2log <br>
-![Last.fm Recently Played](https://lastfm-recently-played.vercel.app/api?user=c7078j)
+## 🎧 Now Playing on Spotify
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bqckitzkauvemgo4chawopb2eq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31bqckitzkauvemgo4chawopb2eq&redirect=true)
+
 
 
 
