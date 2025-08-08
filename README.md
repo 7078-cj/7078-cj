@@ -1,7 +1,7 @@
 ![MasterHead](https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gif)
 <h1 align="center">Hi 👋, I'm   Ceejay Santos</h1>
 <h3 align="center">An aspiring Full-Stack Dev && ML Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZhdnFoNmlob3Awd2UxOG5pMW4xaW9nNTBjZmN5NzFtMmx1ZmxieiZlcD12MV9pbn/>
+
 
 # 💫 About Me:
 🔭 I’m currently working on {still thinking for the next personal proj}<br>🌱 I’m currently learning Machine learning <br>⚡ Fun fact about me : Gus2 ko na ma2log
