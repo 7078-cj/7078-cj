@@ -3,8 +3,9 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:3b0a0a,100:5e0f0f&height=200&section=header&text=%E0%BC%BA%20Ceejay%20%E0%BC%BB&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Ma2log%20Nalang&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000ff,50:0044ff,100:0088ff&height=200&section=header&text=%E0%BC%BA%20Ceejay%20Santos%E0%BC%BB&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Ma2log%20Nalang&descAlignY=60&descAlign=50" />
 </div>
+
 
 <h3 align="center">An aspiring Full-Stack Dev && ML Engineer</h3>
 
