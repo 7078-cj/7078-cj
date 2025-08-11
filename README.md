@@ -20,9 +20,9 @@
 <td align="center" width="50%">
   
 ## 💫 About Me
-🔭 Currently working on: Stock Prediction Website 
-🌱 Currently learning: **LSTM time series forecasting model**  
-⚡ Fun fact: **Gus2 ko na ma2log**
+🔭 Currently working on: **Stock Prediction Website** <br>
+🌱 Currently learning: **LSTM time series forecasting model**  <br>
+⚡ Fun fact: **Gus2 ko na ma2log**<br>
 
 </td>
 <td align="center" width="50%">
