@@ -9,11 +9,20 @@
 <h3 align="center">An aspiring Full-Stack Developer && ML Engineer</h3>
 
 ---
-## 📌 Pinned Repositories
 
-[![Repo1](https://img.shields.io/badge/MyRepo1-181717?style=for-the-badge&logo=github)](https://github.com/7078-cj/Stock-Prediction-Website)
-[![Repo2](https://img.shields.io/badge/MyRepo2-181717?style=for-the-badge&logo=github)](https://github.com/7078-cj/Uniform-Detection)
-[![Repo3](https://img.shields.io/badge/MyRepo3-181717?style=for-the-badge&logo=github)](https://github.com/7078-cj/AguhED)
+## 📌 Pinned Repositories
+<p align="center">
+  <a href="https://github.com/7078-cj/Stock-Prediction-Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=7078-cj&repo=Stock-Prediction-Website&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/7078-cj/Uniform-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=7078-cj&repo=Uniform-Detection&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/7078-cj/AguhED">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=7078-cj&repo=AguhED&theme=tokyonight" />
+  </a>
+</p>
+
 ---
 
 ## 💻 Tech Stack  
