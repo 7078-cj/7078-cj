@@ -25,13 +25,6 @@
 ⚡ Fun fact: **Gus2 ko na ma2log**<br>
 
 </td>
-<td align="center" width="50%">
-
-## 🎧 Recently Played  
- 
-<img src="https://lastfm-recently-played.vercel.app/api?user=c7078j&count=5&gradient=true" />
-
-</td>
 </tr>
 </table>
 
@@ -48,13 +41,6 @@
 </p>
 
 ---
-<p align="center">
-  <a href="https://github.com/kawarimidoll/typograssy">
-    <img src="https://typograssy.deno.dev/api?text=%20%20%20AYOKO%20%20%20NAAAAAAA!%20%20%20&l0=000000&l1=0f1d5e&l2=2d3b8a&l3=0e234a&l4=ffffff&bg=000000&speed=180" alt="AYOKO NAAAAAAA!">
-  </a>
-</p>
-
-
 
 
 ## 📊 GitHub Stats  
