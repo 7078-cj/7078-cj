@@ -9,45 +9,6 @@
 <h3 align="center">An aspiring Full-Stack Developer && ML Engineer</h3>
 
 ---
-
-## 💻 Tech Stack  
-
-### 🖥️ Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
----
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-
-###  Mobile App Development
-
-![React Native](https://img.shields.io/badge/react_native-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/expo-1C1E24.svg?style=for-the-badge&logo=expo&logoColor=#D04A37)
-
-
----
-
-### ⚙️ Backend & Frameworks
-![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django%20REST-ff1709.svg?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![Laravel](https://img.shields.io/badge/laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black.svg?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![Gunicorn](https://img.shields.io/badge/gunicorn-298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
----
 ## 💻 Tech Stack  
 
 | 🖥️ Programming Languages | 🎨 Frontend | 📱 Mobile Development |
