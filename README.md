@@ -9,7 +9,10 @@
 <h3 align="center">An aspiring Full-Stack Developer && ML Engineer</h3>
 
 ---
+
 ## 💻 Tech Stack  
+
+<div align="center">
 
 | 🖥️ Programming Languages | 🎨 Frontend | 📱 Mobile Development |
 |---------------------------|-------------|------------------------|
@@ -42,12 +45,14 @@
 | | ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
 | | ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |
 
+</div>
+
 ---
 
-## 💫 About Me
-🔭 Currently working on: **Stock Prediction Website** <br>
-🌱 Currently learning: **LSTM time series forecasting model** <br>
-⚡ Fun fact: **Gus2 ko na ma2log** <br>
+## 💫 About Me  
+🔭 Currently working on: **Stock Prediction Website** <br>  
+🌱 Currently learning: **LSTM time series forecasting model** <br>  
+⚡ Fun fact: **Gus2 ko na ma2log** <br>  
 
 ---
 
