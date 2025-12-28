@@ -10,21 +10,6 @@
 
 ---
 
-## 📌 Pinned Repositories
-<p align="center">
-  <a href="https://github.com/7078-cj/Stock-Prediction-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=7078-cj&repo=Stock-Prediction-Website&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/7078-cj/Uniform-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=7078-cj&repo=Uniform-Detection&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/7078-cj/AguhED">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=7078-cj&repo=AguhED&theme=tokyonight" />
-  </a>
-</p>
-
----
-
 ## 💻 Tech Stack  
 
 <div align="center">
@@ -64,13 +49,6 @@
 
 ---
 
-## 💫 About Me  
-🔭 Currently working on: **Stock Prediction Website** <br>  
-🌱 Currently learning: **LSTM time series forecasting model** <br>  
-⚡ Fun fact: **Gus2 ko na ma2log** <br>  
-
----
-
 ## 🌐 Socials  
 <p align="center">
   <a href="https://www.facebook.com/ceejay.santos.7549/">
@@ -80,41 +58,5 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
 </p>
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=7078-cj&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=7078-cj&theme=shadow_green&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7078-cj&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=7078-cj&theme=gruvbox_light&no-frame=false&no-bg=false&margin-w=4" />
-</p>
-
----
-
-## ✍️ Random Dev Quote  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" />
-</p>
-
----
-
-## 🔝 Top Contributed Repos  
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=7078-cj&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=7078-cj.7078-cj" />
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
