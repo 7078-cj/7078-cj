@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://64.media.tumblr.com/1c7ae0c17858258d95c924b1a39a0ef7/4af0bed690f2be98-c9/s1280x1920/b33f02a561ee8a854b3380c5da9a4d1502a1a1e9.gif" width="100%" />
-</p>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000ff,50:0044ff,100:0088ff&height=200&section=header&text=%E0%BC%BA%20Ceejay%20Santos%E0%BC%BB&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&descAlignY=60&descAlign=50" />
